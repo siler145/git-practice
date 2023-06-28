@@ -1,1 +1,4 @@
 a = 'aaaaaaaaaaaaaaaaaaaaa'
+
+b = a
+
